@@ -1,25 +1,26 @@
 # Luna Frames — Photographer Portfolio
 
-A responsive photographer portfolio website built with HTML, CSS, and JavaScript.
+A responsive photographer portfolio concept built with HTML, CSS, and JavaScript.
 
-## How to run
+## Live Site
 
-1. Extract the ZIP.
-2. Open the folder in VS Code.
-3. Right-click `index.html`.
-4. Choose **Open with Live Server**.
+Coming soon
 
-## What this project demonstrates
+## Built With
 
-- Portfolio gallery layout
-- Responsive navigation and mobile menu
-- Smooth scroll with sticky navbar offset
-- Scroll reveal animations
-- Service/package cards
-- Netlify-ready inquiry form
+* HTML
+* CSS
+* JavaScript
 
-## Portfolio description
+## Features
 
-**Luna Frames — Photographer Portfolio**
+* Responsive portfolio layout
+* Mobile navigation
+* Smooth scrolling
+* Photography gallery section
+* Service package cards
+* Inquiry/contact form
 
-A responsive photography portfolio concept with editorial typography, a modern gallery layout, service packages, smooth scrolling, scroll reveal animations, and a Netlify-ready inquiry form.
+## About
+
+This project was built as a portfolio website concept for a photographer or creative professional.
